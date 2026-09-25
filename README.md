@@ -60,10 +60,3 @@ allure serve allure-results
 ##Инструменты
 
 Python, pytest, Selenium, Requests, Allure, Postman.
-
-##Репозиторий GitHub
-
-
-
-##Отчёт в Yonote
-
